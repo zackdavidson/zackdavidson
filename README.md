@@ -9,15 +9,29 @@ I'm an indie developer based in Scotland, and I've been programming since I was 
 I have accumalted a lot of knowledge through several years of practice. Please see below the list of my favourite languages, frameworks and tools to develop.
 ### Front-end & Back-end
 
-| Front-end                                                                 | Back-end                                                            |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,ts,react,tailwind,sass,flutter" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,kotlin,cs,dotnet,spring,mysql,postgres,redis" /></a> |
+<table width="100%">
+  <tr>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,ts,react,tailwind,sass,flutter" /></a>
+    </td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,kotlin,cs,dotnet,spring,mysql,postgres,redis" /></a>
+    </td>
+  </tr>
+</table>
 
 ### Infrastructure & DevOps & Tools
 
-| Infrastructure & DevOps                                                   | Tools                                                              |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure,aws,nginx,docker" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=webstorm,idea,obsidian" /></a> |
+<table width="100%">
+  <tr>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure,aws,nginx,docker" /></a>
+    </td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=webstorm,idea,obsidian" /></a>
+    </td>
+  </tr>
+</table>
 
 
 <!--
