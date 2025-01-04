@@ -3,6 +3,7 @@
 I'm an indie developer based in Scotland, and I've been programming since I was 10. I build all my projects from the ground up, starting from the idea phase and going through to implementation, with a focus on solving real-world problems.
 
 ## 📱 Technologies & Frameworks
+
 I have accumalted a lot of knowledge through several years of practice. 
 
 ### 🌍 Front-end
