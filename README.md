@@ -7,35 +7,17 @@ I'm an indie developer based in Scotland, and I've been programming since I was 
 ## 📱 Technologies & Frameworks
 
 I have accumalted a lot of knowledge through several years of practice. Please see below the list of my favourite languages, frameworks and tools to develop.
+### Front-end & Back-end
 
-### 🌍 Front-end
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,react,tailwind,sass,flutter" />
-  </a>
-</p>
+| Front-end                                                                 | Back-end                                                            |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,ts,react,tailwind,sass,flutter" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,kotlin,cs,dotnet,spring,mysql,postgres,redis" /></a> |
 
-### 🖥️ Back-end
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,cs,dotnet,spring,mysql,postgres,redis" />
-  </a>
-</p>
+### Infrastructure & DevOps & Tools
 
-### 💿 Infrastructure & DevOps
-<p >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,nginx,docker" />
-  </a>
-</p>
-
-
-### 🧰 Tools
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=webstorm,idea,obsidian" />
-  </a>
-</p>
+| Infrastructure & DevOps                                                   | Tools                                                              |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure,aws,nginx,docker" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=webstorm,idea,obsidian" /></a> |
 
 
 <!--
