@@ -1,6 +1,39 @@
 # ✨ Zack Davidson
 
-Scotland based indie-developer, i have been programming since i was 10 years old. All projects are built from the ground up solving real-world problems.
+I'm an indie developer based in Scotland, and I've been programming since I was 10. I build all my projects from the ground up, starting from the idea phase and going through to implementation, with a focus on solving real-world problems.
+
+## 📱 Technologies & Frameworks
+I have accumalted a lot of knowledge through several years of practice. 
+
+### 🌍 Front-end
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,ts,react,tailwind,sass,flutter" />
+  </a>
+</p>
+
+### 🖥️ Back-end
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,cs,dotnet,spring,mysql,postgres,redis" />
+  </a>
+</p>
+
+### 💿 Infrastructure & DevOps
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,nginx,docker" />
+  </a>
+</p>
+
+
+### 🧰 Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=webstorm,idea,obsidian" />
+  </a>
+</p>
+
 
 <!--
 **zackdavidson/zackdavidson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
