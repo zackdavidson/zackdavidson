@@ -6,7 +6,7 @@ I'm an indie developer based in Scotland, and I've been programming since I was 
 
 ## 📱 Technologies & Frameworks
 
-I have accumalted a lot of knowledge through several years of practice. 
+I have accumalted a lot of knowledge through several years of practice. Please see below the list of my favourite languages, frameworks and tools to develop.
 
 ### 🌍 Front-end
 <p>
