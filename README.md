@@ -1,5 +1,6 @@
 # ✨ Zack Davidson
 
+Scotland based indie-developer, i have been programming since i was 10 years old. All projects are built from the ground up solving real-world problems.
 
 <!--
 **zackdavidson/zackdavidson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
