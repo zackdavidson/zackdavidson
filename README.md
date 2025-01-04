@@ -6,21 +6,21 @@ I'm an indie developer based in Scotland, and I've been programming since I was 
 I have accumalted a lot of knowledge through several years of practice. 
 
 ### 🌍 Front-end
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,ts,react,tailwind,sass,flutter" />
   </a>
 </p>
 
 ### 🖥️ Back-end
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,kotlin,cs,dotnet,spring,mysql,postgres,redis" />
   </a>
 </p>
 
 ### 💿 Infrastructure & DevOps
-<p align="center">
+<p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,aws,nginx,docker" />
   </a>
@@ -28,7 +28,7 @@ I have accumalted a lot of knowledge through several years of practice.
 
 
 ### 🧰 Tools
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=webstorm,idea,obsidian" />
   </a>
